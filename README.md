@@ -1,4 +1,5 @@
-# Todo-List
+![Logo](https://cdn-icons-png.flaticon.com/256/7590/7590241.png)
+
 The Command-Line Todo List Application is a straightforward Python program designed to enable users to efficiently organize their tasks. Through a command-line interface, this application offers essential features such as adding tasks, listing tasks, and marking tasks as complete
 ## Features
 - -l: Lists all the tasks
@@ -16,3 +17,5 @@ Navigate to the project directory:
 
      python Todo.py
 2.The application will display a list with options to perform various actions. Follow the on-screen prompts to add tasks, list tasks, complete tasks
+
+
